@@ -1,0 +1,6 @@
+In this we will see the oops concepts with examples
+we are going to see:
+Encapsulation
+Abstarction
+Inheritence
+Ploymorphism
